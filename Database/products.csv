@@ -1,0 +1,13 @@
+Product_Id,Product_Name,Price,Description,Category,Quantity
+123,Milk,5,Cow Milk,Dairy,4
+124,Mince Beef,5,A5 Beef,Meat,10
+125,Mince Pork,3,Lean Pork,Meat,7
+129,Mince Chicken,9,LilyDale Chicken,Meat,7
+130,Goat Milk,8,Fresh Goat Milk ,Dairy,9
+111,Cereal,9,Milo Cereal,Breakfast,10
+110,Milk tea,10,Thai milk tea,Tea,10
+119,British Breakfast tea,10,Very Strong British Breakfast Breakfast Black Tea,Tea,10
+133,Mince Lamb,10,GrassFed Mince Lamb,Meat,10
+1222,Earl Grey,10,Earl Grey tea ,Tea,10
+211,Goat cheese,10,Switzerland Goat Cheese,Dairy,10
+222,Monster Energy Drink,10,Original Monster Energy Drink,Energy Drinks,10

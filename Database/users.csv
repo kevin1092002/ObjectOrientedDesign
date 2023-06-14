@@ -1,0 +1,10 @@
+user_id,username,password,email,address,phone_number,user_type
+1,admin,admin,a,a,a,admin
+2,Nathan,123,n@gm,9m,04,customer
+3,Test,test,t,t,t,customer
+4,Test2,Test2,t,t,t,customer
+5,test3,test345,t,t,t,customer
+6,test4,test4,t,t,t,customer
+7,Kevin,123,kevin@gmail.com,11 Mars Solar System MilkyWay,66666666,customer
+8,nemo,123,nemo@gmail.com,123 Pacific Ocean Earth,11111111,customer
+9,kevinblack,123456,k@gmail.com,21 Mar Solar System Milky Way,0000000000,customer
